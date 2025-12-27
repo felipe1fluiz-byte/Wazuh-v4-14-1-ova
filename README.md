@@ -1,4 +1,4 @@
-# Laboratório Wazuh 4.14.1 com Kali Linux
+# Laboratório Wazuh 4.14.1 com Kali Linux e DVWA 
 
 Descrição
 
